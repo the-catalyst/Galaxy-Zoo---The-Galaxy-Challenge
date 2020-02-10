@@ -26,5 +26,5 @@ I made the model using **Fastai Library** which runs on a PyTorch backend. I use
 
 The [Final Project Notebook](https://github.com/the-catalyst/Galaxy-Zoo---The-Galaxy-Challenge/blob/master/Galaxy%20Zoo%20%5BFinal%20Project%20Notebook%5D.ipynb) has step-by-step description and walks you through the project well. 
 
-The model solution beat 3rd submission and can be compared via visual inspection [here.](https://storage.googleapis.com/kaggle-competitions/kaggle/3175/media/Screen%20Shot%202013-09-25%20at%2010.08.17.png)
+The model solution beat 3rd submission and can be compared via visual inspection below.
 ![](https://github.com/the-catalyst/Galaxy-Zoo---The-Galaxy-Challenge/blob/master/Final%20Kaggle%20Score.png)
