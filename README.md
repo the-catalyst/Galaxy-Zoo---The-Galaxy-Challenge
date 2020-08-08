@@ -1,5 +1,5 @@
 # Galaxy Zoo - The Galaxy Challenge
-### A Multi-Regression model for classification of Morphology of Galaxies.
+### A Multi-Classification model for classification of Morphology of Galaxies.
 
 This repository showcases the work I did for the  [Galaxy Zoo Challenge](https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge)  on Kaggle. I took up this challenge as a personal project much later after it's completion. My submission **beat the 3rd ranked submission**, coming very close to the 2nd ranked submission.
 
@@ -15,9 +15,6 @@ This repository showcases the work I did for the  [Galaxy Zoo Challenge](https:/
 ![alt text](https://storage.googleapis.com/kaggle-competitions/kaggle/3175/media/Screen%20Shot%202013-09-25%20at%2010.08.17.png)
 
 The goal of the  Galaxy Zoo challenge is to predict these probabilities from the galaxy images that are shown to the users. In other words, build a model of how “the crowd” perceive and classify these images.
-
-This means that we’re looking at a  **regression  problem**, not a classification problem: we don’t have to determine which classes the galaxies belong to, but rather the fraction of people who would classify them as such.
-
 
 
 ## My Solution
